@@ -1,0 +1,9 @@
+{
+  "name": "nats-pub-sub-reply",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "nats": "^1.3.0"
+  }
+}
